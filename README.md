@@ -69,33 +69,33 @@ Open [http://localhost:5173](http://localhost:3000) to view it in your browser.
 
 ---
 
-### Features
+## Features
 
-### Course Enrollment
+#### Course Enrollment
 
 - Students can enroll in their desired courses directly through the online system.
 - Removes the need for manual paperwork or in-person registration.
 - Provides real-time updates to course availability and enrollment status.
 
-### Academic Results Access
+#### Academic Results Access
 
 - Students can easily view their academic results within the portal.
 - Displays detailed grade information for each enrolled course.
 - Enables quick access to performance history without waiting for manual result announcements.
 
-### Attendance Tracking
+#### Attendance Tracking
 
 - Provides students with updated attendance records.
 - Displays attendance percentage and detailed breakdown per course.
 - Allows students to monitor their attendance regularly to avoid shortages.
 
-### Dynamic Course Statistics
+#### Dynamic Course Statistics
 
 - Real-time visualization of course progress and completion status.
 - Displays percentage of syllabus covered and pending tasks.
 - Helps students track their academic journey efficiently.
 
-### Enrollment and Withdrawal Requests
+#### Enrollment and Withdrawal Requests
 
 - Students can submit course enrollment or withdrawal requests directly to their departments.
 - Removes the need for physical forms and manual processing.
