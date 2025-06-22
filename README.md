@@ -42,7 +42,12 @@ With real updates, a responsive interface, and intuitive navigation, students ca
 
 
  ---
-- Check out the latest demo of Project [Collabor8r-Site](https://collbora8r.netlify.app/). 
+
+- Check out the latest demo of Project [ITU-CMS-Student-App](https://itu-cms.netlify.app/). 
+- Check the latest demo of Mobile App verion of this Project [ITU-CMS-Student-App](https://github.com/BazilSuhail/ITU-CMS-Student-App).
+  
+<\br>
+
 - Find the Server's Repository of this Project Here [Collabor8r-Server](https://github.com/BazilSuhail/Collabora8r-Server). 
 ---
 
