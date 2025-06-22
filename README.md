@@ -1,10 +1,11 @@
 ## ITU University Management System (Student Portal)
 The Student University Management System offers students seamless access to academic information, including course enrollments, results, and attendance. With real-time updates, dynamic course statistics, and easy navigation, students can track progress and submit enrollment or withdrawal requests to their departments efficiently.
 
-This is the client-side of the project, built using React to create a dynamic and responsive user interface along with react supported technologies/ kits. 
-- The useContext API of react is leveraged for state management across various components, enabling smooth data flow and simplifying the handling of shared state. 
-- Socket.IO Client is integrated to enable real-time communication, allowing instant notifications and updates for team members. For enhanced animations and smooth transitions.
-- Framer Motion is utilized, ensuring a polished and engaging user experience throughout the application. 
+This is the **client-side** of the project, built using **React** to create a dynamic and responsive user interface along with React-supported technologies and kits.
+
+- Developed using **Tailwind CSS** for fast, modern, and fully responsive UI with a utility-first design approach.
+- Utilized **Framer Motion** for smooth animations and transitions to ensure a polished and engaging user experience.
+- Implemented **Firebase Authentication** for secure user login and signup, ensuring protected access to student data.
 
 These technologies combine to create an interactive and seamless interface for effective project collaboration.
 
@@ -13,8 +14,16 @@ These technologies combine to create an interactive and seamless interface for e
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-### Project Description
-Application `Collabor8r` is an intuitive and robust project management tool designed to streamline team collaboration, task management, and project tracking. Built using MERN stack (MongoDB, Express, React, and Node.js) this application ensures smooth and productive project workflows for teams of all sizes. Whether you're managing tasks, tracking progress, or collaborating with colleagues, Collabor8r provides a seamless experience to keep everything on track. With a focus on enhancing productivity, Collabor8r provides advanced features and interactive elements to ensure efficient project execution.
+## Project Overview
+
+The **Student University Management System** allows students to easily access and manage their academic records. Key features include:
+
+- Students can enroll in courses directly through the system without manual paperwork.
+- Ease of access to grades and attendance, enabling students to track their academic performance efficiently.
+- Dynamic course statistics provide up-to-date insights into progress and completion status.
+- Students can submit enrollment and withdrawal requests quickly, streamlining communication with university departments.
+
+With real updates, a responsive interface, and intuitive navigation, students can efficiently track their academic progress and directly communicate with their university departments through the system.
 
 ---
 ### 🤖 Tech Stack 
@@ -40,11 +49,11 @@ Application `Collabor8r` is an intuitive and robust project management tool desi
 ### Run Locally
 Clone the project using the following command:
 ```bash
-   git clone https://github.com/BazilSuhail/Collabora8r-Client.git
+   git clone https://github.com/BazilSuhail/ITU-CMS-Student-Portal.git
 ```
 Go to the project directory
 ```bash
-   cd Collabora8r-Client
+   cd ITU-CMS-Student-Portal
 ```
 Then **Run** this command in your terminal to install all required dependancies:
 ```bash
@@ -55,9 +64,10 @@ In the project directory, you can run:
    npm start
 ``` 
 Runs the app in the development mode.
-Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+Open [http://localhost:5173](http://localhost:3000) to view it in your browser.
 
 ---
+
 ## Features
 ### Task Management
 - **Task Creation**: Create tasks with detailed descriptions, deadlines, and priority levels.
