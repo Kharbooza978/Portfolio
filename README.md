@@ -4,8 +4,9 @@ The Student University Management System offers students seamless access to acad
 This is the **client-side** of the project, built using **React** to create a dynamic and responsive user interface along with React-supported technologies and kits.
 
 - Developed using **Tailwind CSS** for fast, modern, and fully responsive UI with a utility-first design approach.
-- Utilized **Framer Motion** for smooth animations and transitions to ensure a polished and engaging user experience.
+- Used **Firebase Firestore** for database storage and **Firebase Backend Services** to manage and store student academic records, enrollment data, and request submissions efficiently.
 - Implemented **Firebase Authentication** for secure user login and signup, ensuring protected access to student data.
+- Utilized **Framer Motion** for smooth animations and transitions to ensure a polished and engaging user experience.
 
 These technologies combine to create an interactive and seamless interface for effective project collaboration.
 
@@ -68,36 +69,34 @@ Open [http://localhost:5173](http://localhost:3000) to view it in your browser.
 
 ---
 
-## Features
-### Task Management
-- **Task Creation**: Create tasks with detailed descriptions, deadlines, and priority levels.
-- **Task Assignment**: Assign tasks to specific team members, track progress, and set due dates.
-- **Task Status Updates**: Real-time updates on task status (e.g., In Progress, Completed) with visual indicators.
+### Features
 
+### Course Enrollment
 
-### Real Time Notifications
-- **Project Invitations**: Real-time notifications for team members when invited to join a project.
-- **Manager Invitations**: Instant updates for managers when assigned to oversee a project.
-- **Invitation Status**: Live tracking of invitation acceptance or rejection status.
+- Students can enroll in their desired courses directly through the online system.
+- Removes the need for manual paperwork or in-person registration.
+- Provides real-time updates to course availability and enrollment status.
 
-### Team Collaboration
-- **Discussion Boards**: Engage in team discussions for each project, share ideas, and resolve issues via comments in a particular task. 
-- **Real-time Notifications**: Receive real-time notifications for team/ project invitation or a Project Manager Role.
+### Academic Results Access
 
-### Project Timelines
-- **Gantt Charts**: Visualize project timelines with interactive Gantt charts.
-- **Milestone Tracking**: Set and track progress to ensure projects stay on schedule.
-- **Progress Reporting**: View progress against individual tasks.
+- Students can easily view their academic results within the portal.
+- Displays detailed grade information for each enrolled course.
+- Enables quick access to performance history without waiting for manual result announcements.
 
-### User Profile Management
-- **View and Edit Profile**: Users can view and update their profile information, including full name, email, and role within the team.
-- **Profile Picture Upload**: Upload and update your profile picture for a personalized user experience.
+### Attendance Tracking
 
-### Analytics and Reporting
-- **Project Analytics**: Gain insights into project performance with data-driven analytics.
-- **Task Completion Reports**: View detailed reports on task completion rates, time spent, and team productivity.
+- Provides students with updated attendance records.
+- Displays attendance percentage and detailed breakdown per course.
+- Allows students to monitor their attendance regularly to avoid shortages.
 
-### Security and Permissions
-- **Role-Based Access Control**: Define roles and permissions to ensure secure and organized access to project data.
-- **Data Encryption**: All sensitive data is encrypted to protect against unauthorized access.
+### Dynamic Course Statistics
 
+- Real-time visualization of course progress and completion status.
+- Displays percentage of syllabus covered and pending tasks.
+- Helps students track their academic journey efficiently.
+
+### Enrollment and Withdrawal Requests
+
+- Students can submit course enrollment or withdrawal requests directly to their departments.
+- Removes the need for physical forms and manual processing.
+- Speeds up the communication and approval process between students and university administration.
