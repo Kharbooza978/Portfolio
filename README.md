@@ -1,4 +1,4 @@
-## ITU University Management System (Student Portal)
+# ITU University Management System (Student Portal)
 The Student University Management System offers students seamless access to academic information, including course enrollments, results, and attendance. With real-time updates, dynamic course statistics, and easy navigation, students can track progress and submit enrollment or withdrawal requests to their departments efficiently.
 
 This is the **client-side** of the project, built using **React** to create a dynamic and responsive user interface along with React-supported technologies and kits.
@@ -72,7 +72,7 @@ In the project directory, you can run:
    npm start
 ``` 
 Runs the app in the development mode.
-Open [http://localhost:5173](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ---
 
