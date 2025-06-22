@@ -1,4 +1,6 @@
-# ITU University Management System (Admin Portal)
+## ITU University Management System (Admin Portal)
+
+<\hr>
 
 The **Admin Side** of the Student University Management System is designed to manage users, departments, courses, classes, scheduling, and student academic workflows. It provides role-based access and permissions to ensure structured and secure management across the university.
 
