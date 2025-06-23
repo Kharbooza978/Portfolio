@@ -1,13 +1,32 @@
-## ITU Student App (Student Portal for University)
-A project that I created for up-scaling my skills from web to mobile apps. This project is a student portal (designed for my **own University** after seeing the condition of web portal they gave us) allowing stundets to manage and look there academics activities and summaries efficiently.
+## ITU Instructor App - University Management System
+The Instructor App is a role-specific module of the ITU University Management System that allows instructors to efficiently manage their assigned courses, student attendance, assessments, and grading tasks. This app is exclusively accessible to instructors and is designed for seamless academic management.
 
 ---
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-## Project Description:
-This student portal app streamlines academic management with features like secure authentication, profile management, viewing marks, attendance, and enrolled courses. It also allows course enrollment and withdrawal requests, offering a user-friendly solution for efficient academic organization.
+## Project Overview
+
+- Instructors can securely log in to the system using their unique credentials.
+- Instructors can view a list of courses they are currently teaching.
+- By selecting a course, instructors can see all enrolled students along with detailed student lists.
+- A dedicated tab displays all courses taught by the instructor, each with options to manage attendance and marks.
+- Instructors can manage attendance by:
+  - Viewing all enrolled students against a selected date.
+  - Marking students as present or absent.
+  - Updating attendance records at any time.
+- Instructors can manage assessments and grading by:
+  - Creating assessments (e.g. quizzes, assignments, exams) for each course.
+  - Defining and updating grading criteria.
+  - Assigning, updating, and deleting marks for individual students.
+  - Modifying and deleting assessments if needed.
+  - Grading students based on the defined criteria.
+- Instructors have access to their personal profile screen:
+  - Displays instructor’s full profile information.
+  - Allows easy viewing of instructor-specific details.
+
+---
 
 ### 🤖 Tech Stack 
 <a href="#"> 
@@ -22,9 +41,9 @@ This student portal app streamlines academic management with features like secur
 
 ---
  
-#### Check out the latest demo of Project [ITU-Student-Portal](https://entitysafe.netlify.app/pages/AppList/-O4swNr4Vi3X0OLPoTQy). 
+#### Check out the latest demo of Project [ITU-Admin-Portal](https://entitysafe.netlify.app/pages/AppDetails/-O4tB8HAlHw2clk3cTlL). 
 
-![App Screenshot](https://github.com/Kharbooza978/EntitySafe/blob/main/Student-App/student_app1.png)
+![App Screenshot](https://github.com/Kharbooza978/EntitySafe/blob/main/Instructor-App/instructor_app1.png)
 
 ---
 
@@ -32,11 +51,11 @@ This student portal app streamlines academic management with features like secur
 
  Clone the project using following command
 ```bash
-    git clone https://github.com/BazilSuhail/ITU-CMS-Student-App.git
+    git clone https://github.com/BazilSuhail/ITU-CMS-Instructor-App.git
 ```
 Go to the project directory
 ```bash
-    cd ITU-CMS-Student-App
+    cd ITU-CMS-Instructor-App
 ```
 Then **Run** this command in your terminal to install all required dependancies:
 ```bash
@@ -54,33 +73,34 @@ Another option is to get Android Studio Installed and type **a** in terminal to 
 
 ## Features
 
-#### **Authentication**
-- Secure login using modern authentication protocols (e.g., Firebase Auth).
-- User session management for a smooth and secure experience.
+#### Secure Login
+- Only instructors can log in to the system.
+- Role-based access ensures security and restricts functionalities to instructor-specific tasks.
 
-#### **Dashboard**
-- Access a comprehensive overview of academic activities in one place. 
-- Quickly navigate to enrolled courses, marks, and attendance.
+#### Course Management
+- Instructors can view all courses they are currently teaching.
+- Clicking on a course displays the list of enrolled students.
+- Instructors can see how many students are enrolled in each course.
+- Provides detailed student information for each selected course.
 
-#### **Profile Management**
-- View and edit personal details such as name, email, and academic information. 
-- Keep track of academic progress.
+#### Attendance Management
+- Instructors can access an attendance tab for each course they are teaching.
+- Can select a specific date to mark attendance.
+- Can mark each student as present or absent.
+- Can update attendance records at any time.
+- Allows quick and easy attendance tracking for every class session.
 
-#### **Academic Overview**
-- View assigned marks for current and past courses. 
-- Access summaries of academic performance over time.
-- Look upon assigned grades by the instructors.
+#### Assessment and Grading Management
+- Instructors can create new assessments for their courses (quizzes, assignments, exams, etc.).
+- Can define and update grading criteria for each course.
+- Can assign marks to individual students for each assessment.
+- Can update or delete assigned marks if needed.
+- Can update or delete created assessments.
+- Can modify grading criteria anytime.
+- Can grade students based on the defined grading scheme.
+- Ensures flexible and accurate assessment management.
 
-#### **Attendance Overview** 
-- Check attendance records for enrolled courses. 
-
-#### **Course Enrollment**
-- Browse available courses and register for new ones with ease.
-- View course details (schedule, prerequisites, etc.) before enrolling.
-- Automatically update course list after successful enrollment.
-
-#### **Course Withdrawal**
-- Apply for course withdrawal directly through the app.
-- View eligibility and deadlines for course withdrawal.
-- Track the status of withdrawal requests and confirm completion.
-
+#### Profile Management
+- Instructors can access their personal profile screen.
+- Profile displays all relevant instructor information.
+- Allows instructors to view their account details easily.
