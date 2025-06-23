@@ -36,7 +36,7 @@ This student portal app streamlines academic management with features like secur
 ```
 Go to the project directory
 ```bash
-    cd my-project
+    cd ITU-CMS-Student-App
 ```
 Then **Run** this command in your terminal to install all required dependancies:
 ```bash
