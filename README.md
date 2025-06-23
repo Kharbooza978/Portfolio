@@ -43,16 +43,15 @@ With real updates, a responsive interface, and intuitive navigation, students ca
 ---
 
 ### 🤖 Tech Stack 
- <a href="#"> 
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
-   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/> 
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-   <img alt="Firebase Storage" src="https://img.shields.io/badge/firebase%20storage-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-<img alt="Firebase Authentication" src="https://img.shields.io/badge/firebase%20auth-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-
+### 🤖 Tech Stack 
+<a href="#"> 
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="React Native Reanimated" src="https://img.shields.io/badge/React%20Native%20Reanimated-%23845EC2.svg?&style=for-the-badge&logo=react&logoColor=%23FFFFFF"/>
+ <img alt="NativeWind" src="https://img.shields.io/badge/NativeWind-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+ <img alt="Firebase Realtime Database" src="https://img.shields.io/badge/Firebase%20Database-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+<img alt="Firebase Auth" src="https://img.shields.io/badge/Firebase%20Auth-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black"/>
  </a>
 
 
